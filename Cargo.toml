@@ -1,0 +1,8 @@
+[package]
+name = "statusgitian"
+version = "0.0.1"
+authors = ["Zack M. Davis <code@zackmdavis.net>"]
+
+[dependencies]
+git2 = "0.7"
+prettytable-rs = "0.6"
